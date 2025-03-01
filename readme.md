@@ -1,5 +1,10 @@
 # Monitoring
 
+
+
+![image](https://github.com/user-attachments/assets/67d7d94e-44c6-4c9a-ab75-6c413735ec31)
+
+
 ## Metrics vs Monitoring
 
 Metrics are measurements or data points that tell you what is happening. For example, the number of steps you walk each day, your heart rate, or the temperature outside—these are all metrics.
